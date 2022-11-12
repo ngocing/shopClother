@@ -1,0 +1,1021 @@
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShop.mdb
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShop.mdb
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojResolveAssemblyReference.cache
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.Cache
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanVien.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanVien.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanVien.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\MyMy\Desktop\DoAnTTHDT\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ThongKeSP.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ThongKeSP.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoLoiNhuan.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojResolveAssemblyReference.cache
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoLoiNhuan.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanVien.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ThongKeSP.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.TT_Nhanvien.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.Cache
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\Tien\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaocaoNVBH.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoLoiNhuan.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaocaoNVBH.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanVien.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ThongKeSP.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.TT_Nhanvien.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.Cache
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.About.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Help.resources
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHangTrongNgay.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.About.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHangTrongNgay.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Help.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoLoiNhuan.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaocaoNVBH.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanVien.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ThongKeSP.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.TT_Nhanvien.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.cs
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.Designer.cs
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsc
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xsd
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QLyShopDataSet.xss
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+C:\Users\MyMy\Desktop\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.About.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHangTrongNgay.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Help.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaocaoNVBH.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.TT_Nhanvien.resources
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Charts.v12.1.Core.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Data.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Office.v12.1.Core.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.PivotGrid.v12.1.Core.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.RichEdit.v12.1.Core.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Xpo.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraBars.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v12.1.Extensions.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v12.1.UI.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraNavBar.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPivotGrid.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraRichEdit.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraTreeList.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraVerticalGrid.v12.1.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Configuration.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Data.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Deployment.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Drawing.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.ServiceModel.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Web.Services.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Windows.Forms.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Xml.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\WindowsBase.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Data.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Office.v12.1.Core.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.PivotGrid.v12.1.Core.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Printing.v12.1.Core.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.RichEdit.v12.1.Core.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Xpo.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraBars.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v12.1.UI.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraEditors.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraGrid.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraLayout.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraNavBar.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPivotGrid.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraRichEdit.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraTreeList.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraVerticalGrid.v12.1.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Data.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Data.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Data.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Data.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.PivotGrid.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.PivotGrid.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.PivotGrid.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.PivotGrid.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Printing.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Printing.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Printing.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Printing.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.RichEdit.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.RichEdit.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.RichEdit.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.RichEdit.v12.1.Core.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Utils.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Utils.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Utils.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Utils.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Xpo.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Xpo.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Xpo.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Xpo.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraBars.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraBars.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraBars.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraBars.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraCharts.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraCharts.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraCharts.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraCharts.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraCharts.v12.1.UI.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraEditors.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraEditors.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraEditors.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraEditors.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraLayout.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraLayout.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraLayout.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraLayout.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraNavBar.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraNavBar.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraNavBar.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraNavBar.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraPivotGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraPivotGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraPivotGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraPivotGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraRichEdit.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraRichEdit.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraRichEdit.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraRichEdit.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraTreeList.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraVerticalGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraVerticalGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v12.1.resources.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v12.1.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Data.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Images.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.VisualBasic.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Configuration.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Data.DataSetExtensions.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Data.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Deployment.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Drawing.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Runtime.Serialization.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.ServiceModel.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Web.Services.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Windows.Forms.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Xml.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\WindowsBase.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUL.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Data.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojAssemblyReference.cache
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.About.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHangTrongNgay.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoLoiNhuan.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaocaoNVBH.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanVien.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ThongKeSP.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.TT_Nhanvien.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.cache
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.CoreCompileInputs.cache
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.CopyComplete
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csprojAssemblyReference.cache
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.About.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHangTrongNgay.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.HienThi.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoLoiNhuan.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaocaoNVBH.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanVien.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoDoanhThu.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BaoCaoNhap.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InHoaDon.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.InPhieuNhap.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.KhachHang.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.BanHang.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ChangePass.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.LoaiSanPham.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhaCungCap.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhanHieu.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.NhapKho.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.QL_Shop.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Properties.Resources.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.Login.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.SanPham.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.ThongKeSP.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.TT_Nhanvien.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemSanPham.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhanHieu.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemHoaDon.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemPN.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.xemLoaiSP.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNCC.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.XemNhapKho.resources
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.GenerateResource.cache
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe.licenses
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.cache
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\RdlCompile.compiled
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.CoreCompileInputs.cache
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.exe
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe.config
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.exe
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\QL_ShopThoiTrang.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Data.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Images.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\Microsoft.VisualBasic.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Configuration.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Data.DataSetExtensions.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Data.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Deployment.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Drawing.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Runtime.Serialization.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.ServiceModel.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Web.Services.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Windows.Forms.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\System.Xml.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\WindowsBase.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DTO.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Data.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DAL.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\obj\Debug\QL_ShopThoiTrang.csproj.CopyComplete
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUS.dll
+F:\QlyShopQA\QL_ShopThoiTrang\QL_ShopThoiTrang\bin\Debug\BUS.pdb

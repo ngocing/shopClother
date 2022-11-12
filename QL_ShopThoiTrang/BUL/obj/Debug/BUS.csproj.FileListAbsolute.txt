@@ -1,0 +1,32 @@
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\BUL.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\BUL.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\DAL.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\DTO.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\System.Data.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\System.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\System.Drawing.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\System.Windows.Forms.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\System.Xml.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\DAL.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\bin\Debug\DTO.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\obj\Debug\BUS.csproj.CopyComplete
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\obj\Debug\BUL.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\BUL\obj\Debug\BUL.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\DAL.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\DTO.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\System.Data.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\System.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\System.Drawing.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\System.Windows.Forms.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\System.Xml.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\DAL.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\DTO.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\obj\Debug\BUS.csproj.CopyComplete
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\BUS.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\bin\Debug\BUS.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\obj\Debug\BUS.dll
+F:\QlyShopQA\QL_ShopThoiTrang\BUL\obj\Debug\BUS.pdb

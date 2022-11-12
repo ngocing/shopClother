@@ -1,0 +1,62 @@
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+C:\Users\Nam\Desktop\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+C:\Users\MyPC\Downloads\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+C:\Users\MyPC\Desktop\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+C:\Users\Nam\Desktop\New folder\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+C:\Users\Nam\Desktop\mynamnguyen\QL_ShopThoiTrang2\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+C:\Users\Tien\Desktop\QuanLyShopThoiTrang1\DoAnTTHDT\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+C:\Users\Nam\Downloads\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.Data.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.Drawing.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.Windows.Forms.dll
+C:\Users\Nam\Desktop\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.Xml.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.Data.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.Drawing.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.Windows.Forms.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\bin\Debug\System.Xml.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
+F:\TT Lap Trinh Window\QL_ShopThoiTrang\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\bin\Debug\DTO.dll
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\bin\Debug\DTO.pdb
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\bin\Debug\System.Data.dll
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\bin\Debug\System.dll
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\bin\Debug\System.Drawing.dll
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\bin\Debug\System.Windows.Forms.dll
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\bin\Debug\System.Xml.dll
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\obj\Debug\DTO.dll
+F:\QlyShopQA\QL_ShopThoiTrang\DTO\obj\Debug\DTO.pdb
